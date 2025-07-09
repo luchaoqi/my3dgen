@@ -140,13 +140,12 @@ For editing, you can refer to [google/mystyle](https://github.com/google/mystyle
 ## Citation
 If you find this work useful for your research, please kindly cite our paper:
 ```
-@misc{qi2024my3dgenscalablepersonalized3d,
-      title={My3DGen: A Scalable Personalized 3D Generative Model}, 
-      author={Luchao Qi and Jiaye Wu and Annie N. Wang and Shengze Wang and Roni Sengupta},
-      year={2024},
-      eprint={2307.05468},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2307.05468}, 
+@InProceedings{Qi_2025_WACV,
+    author    = {Qi, Luchao and Wu, Jiaye and Wang, Annie N. and Wang, Shengze and Sengupta, Roni},
+    title     = {My3DGen: A Scalable Personalized 3D Generative Model},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {961-972}
 }
 ```
